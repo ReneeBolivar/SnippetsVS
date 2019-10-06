@@ -35,7 +35,7 @@ private void Method()
 ```
 
 ### Try/Catch/Finally
-Enter **tcf** and press 'Tab' twice to create a simple template of a XML documentation on comment and import automatically the **System** namespace.
+Enter **tcf** and press 'Tab' twice to create a try/catch/finally block and import automatically the **System** namespace.
 
 ```
 try
