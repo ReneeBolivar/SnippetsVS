@@ -1,8 +1,8 @@
 # SnippetsVS
-Simple snippets for Visual Studio to help developers who need coding agility xD
+Simple snippets for Visual Studio to help developers that needs coding agility xD
 
 ## Install
-Download the current's files of this repository and follow the steps described on [Microsoft Documentation](https://docs.microsoft.com/en-us/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2019#import-a-code-snippet)
+Download the currents files in this repository and follow the steps described on [Microsoft Documentation](https://docs.microsoft.com/en-us/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2019#import-a-code-snippet)
 
 ### Static constructor
 Enter **sctor** and press 'Tab' twice to create a static constructor.
